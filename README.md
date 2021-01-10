@@ -14,12 +14,13 @@ Smart Spice Machine
 
 ## 담당 역할
 ### Android
+![Langauge:Java](https://img.shields.io/badge/Langauge-Java-green) ![platform:Android](https://img.shields.io/badge/Platform-Android-blue) 
 * 사용자가 입력한 레시피 서버 DB에 저장
 * '레시피 실행'과 '바로 실행' 기능 구현
 * 실행할 조미료를 서버에 request
 
 ### BE
-![Langauge:Java](https://img.shields.io/badge/Langauge-PHP-green) ![platform:Android](https://img.shields.io/badge/Platform-AWS-blue) ![Langauge:Java](https://img.shields.io/badge/DB-MySQL-yellow)
+![Langauge:PHP](https://img.shields.io/badge/Langauge-PHP-green) ![platform:AWS](https://img.shields.io/badge/Platform-AWS-blue) ![DB:MySQL](https://img.shields.io/badge/DB-MySQL-yellow)
 
 * AWS free tier 사용
 * MySQL 사용자 DB 생성
